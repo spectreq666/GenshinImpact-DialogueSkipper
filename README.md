@@ -2,13 +2,19 @@
 
 ![.NET Build](https://github.com/spectreq666/GenshinImpact-DialogueSkipper/actions/workflows/dotnet.yml/badge.svg)
 
+> [!CAUTION]
+>
+> ### IMPORTANT
+> Using dialogue skippers is prohibited by miHoYo and may result in penalties. 
+> Use this software at your own risk.
+
 ![flins-flins-genshin](https://github.com/user-attachments/assets/7f31ded2-8a97-49ed-95fe-7c88fead91bb)
 
 [VirusTotalScan](https://www.virustotal.com/gui/file/a06087865d8ecd2c0c8f5104f00549fe5620463fcba9abf151043b93e5c2cda4/detection)
 
 Automated dialogue skipping utility for Genshin Impact using computer vision and image recognition.
 
-Use at your own risk.
+
 
 ## 📋 Description
 
